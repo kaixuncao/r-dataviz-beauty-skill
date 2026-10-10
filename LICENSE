@@ -1,0 +1,29 @@
+MIT License
+
+Copyright (c) 2026 kaixuncao
+
+本许可仅覆盖本仓库中原创性的整理工作：SKILL.md 的结构与提示词设计、
+tools/ 下的提取脚本、install 脚本、以及本文档（README.md）与参考文档的组织与重组方式。
+
+原书《R 语言数据可视化之美：专业图表绘制指南（增强版）》（张杰 著）的文字、
+图表与代码的著作权归原作者及出版社所有。references/ 目录下的内容包含对该书的
+结构化摘录与代码片段引用，均为学习研究目的，并已标注原书页码以便回查，
+不属于本许可授权范围。如涉及版权问题，请联系删除。
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
